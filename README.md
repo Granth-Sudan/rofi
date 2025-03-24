@@ -1,0 +1,2 @@
+# rofi
+my rofi config
